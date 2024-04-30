@@ -1,0 +1,19 @@
+.clr{
+    background-color: silver;
+    display: flex;
+    flex-wrap: wrap;
+    height: fit-content;
+    justify-content: center;
+    border: solid black 1px;
+}
+img{
+    width: 380px;
+    margin: 3px;
+    padding: 3px;
+}
+
+.shuu{
+    border: solid black 1px;
+    gap: 5px;
+    height: 380px;
+}
